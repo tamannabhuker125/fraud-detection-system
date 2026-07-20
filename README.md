@@ -21,5 +21,11 @@ This project predicts whether a financial transaction is Fraud or Legitimate usi
    requirements.txt
 
 2. Run the application:
-   streamlit run 
-  fraud_detection.py 
+   streamlit run
+   fraud_detection.py 
+
+
+## live demo 
+streamlit app:
+https://fraud-detection-system-jurajpjgcbpjfdc4yrlwh6.streamlit.app/
+
